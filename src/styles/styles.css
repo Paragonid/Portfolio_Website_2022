@@ -167,5 +167,21 @@ section {
 .header-content .left-header .image img:hover {
   filter: grayscale(0);
 }
+.header-content .right-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-right: 18rem;
+}
+.header-content .right-header .name {
+  font-size: 3rem;
+}
+.header-content .right-header .name span {
+  color: var(--color-secondary);
+}
+.header-content .right-header p {
+  margin: 1.5rem 0;
+  line-height: 2rem;
+}
 
 /*# sourceMappingURL=styles.css.map */
