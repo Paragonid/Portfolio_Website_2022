@@ -65,7 +65,6 @@ section {
 .sec2 {
   display: none;
   transform: translateY(0) scale(1);
-  background-color: rgba(161, 228, 38, 0.849);
 }
 
 .sec3 {
@@ -76,7 +75,6 @@ section {
 .sec4 {
   display: none;
   transform: translateY(0) scale(1);
-  background-color: #c2cd5a;
 }
 
 .sec5 {
