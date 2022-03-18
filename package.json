@@ -1,5 +1,6 @@
 {
   "devDependencies": {
-    "prettier": "2.6.0"
+    "prettier": "2.6.0",
+    "typed-query-selector": "2.6.1"
   }
 }
